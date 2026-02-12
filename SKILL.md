@@ -1,12 +1,10 @@
 ---
 name: callback-architecture
-description: Transform flat, linear narratives into architecturally structured stories
-  by strategically planting specific details in the opening that return later with
-  compounding payoff.
+description: Transform flat, linear narratives into architecturally structured stories by strategically planting specific details in the opening that return later with compounding payoff.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - callback-architecture
